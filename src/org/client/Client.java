@@ -6,4 +6,8 @@ public class Client {
 		System.out.println("Client Location is: Bangalore");
 		System.out.println("Client ID: 8413");
 	}
+	public void mainOrganisation() {
+		System.out.println("Organisation Working with: TCS");
+		System.out.println("Office Location: Bangalore_E-city");
+	}
 }
